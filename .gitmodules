@@ -1,0 +1,3 @@
+[submodule "vendor/modules/spree-ember"]
+	path = vendor/modules/spree-ember
+	url = git@github.com:hhff/spree-ember.git

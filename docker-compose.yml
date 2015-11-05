@@ -1,0 +1,9 @@
+# App name
+spree-sandbox:
+  build: .
+  command: sh start.sh
+  volumes:
+    - .:/spree-sandbox
+  ports:
+    - "4200:4200"
+    - "49152:49152"
