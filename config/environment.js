@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    yebo: {
+    spree: {
       apiHost: "http://vivreshop.yebo.com.br/",
       namespace: "api/ams",
     },

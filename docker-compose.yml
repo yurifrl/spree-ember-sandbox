@@ -5,5 +5,5 @@ spree-sandbox:
   volumes:
     - .:/spree-sandbox
   ports:
-    - "4200:4200"
-    - "49152:49152"
+    - "4201:4200"
+    - "49153:49152"
